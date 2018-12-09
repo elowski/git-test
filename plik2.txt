@@ -1,2 +1,3 @@
 Tresc 2
 Dodanie tresci.
+trzecia linia w pliku 2
